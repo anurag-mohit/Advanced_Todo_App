@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Advanced_Todo_App/static/css/main.ea1b61c4.css",
+    "main.js": "/Advanced_Todo_App/static/js/main.f4223c22.js",
+    "static/media/todolist.svg": "/Advanced_Todo_App/static/media/todolist.b19b3cbf7c74c6564556634012011fa1.svg",
+    "index.html": "/Advanced_Todo_App/index.html",
+    "main.ea1b61c4.css.map": "/Advanced_Todo_App/static/css/main.ea1b61c4.css.map",
+    "main.f4223c22.js.map": "/Advanced_Todo_App/static/js/main.f4223c22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea1b61c4.css",
+    "static/js/main.f4223c22.js"
+  ]
+}
